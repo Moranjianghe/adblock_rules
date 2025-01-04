@@ -4,6 +4,8 @@ blog.axianyu.cn##.playing, .myhkshow
 bilibili.com##div[class="adblock-tips"]
 !哔哩哔哩推广视频
 bilibili.com##div.feed-card:has(a[href*="cm.bilibili.com"])
+bilibili.com##div.bili-video-card:has(a[href*="cm.bilibili.com"])
+
 !哔哩哔哩首页直播间推荐
 bilibili.com##div[class="floor-single-card"]
 !知乎移动端严选推荐
