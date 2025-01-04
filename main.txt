@@ -8,6 +8,8 @@ bilibili.com##div.bili-video-card:has(a[href*="cm.bilibili.com"])
 
 !首页左边的大方块
 www.bilibili.com##.grid-anchor.recommended-swipe
+!视频右侧广告
+www.bilibili.com##.video-card-ad-small
 !哔哩哔哩首页直播间推荐
 bilibili.com##div[class="floor-single-card"]
 !知乎移动端严选推荐
