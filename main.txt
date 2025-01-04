@@ -1,0 +1,29 @@
+blog.axianyu.cn###myhkplayer
+blog.axianyu.cn##.playing, .myhkshow
+!哔哩哔哩首页开了插件之后上面的条条
+bilibili.com##div[class="adblock-tips"]
+!哔哩哔哩首页直播间推荐
+bilibili.com##div[class="floor-single-card"]
+!知乎移动端严选推荐
+zhihu.com##div[class="KfeCollection-VipRecommendCard"]
+
+
+
+gu.qq.com## #left_maxcard
+gu.qq.com## #right_maxcard
+gu.qq.com###root > div > div > iframe:first-child
+gu.qq.com##div:nth-child(16)
+gu.qq.com###content_wrap > div.right_side.lf:nth-child(2) > div.part_1.clear > div.hq-ad-ctn.gb_con:first-child > div.col-2.fl:last-child > div > a > img
+gu.qq.com###hqpanel > div.gb_title.title:first-child > div.gjzq-ad:nth-child(6)
+gu.qq.com##.ad-app
+gu.qq.com###content_wrap > div.right_side.lf:nth-child(2) > div.part_1.clear > div.content:last-child > div > div.gb_con:nth-child(5) > div.fr:nth-child(2)
+gu.qq.com##div:nth-child(15)
+www.wsj.com###cx-candybar-native
+
+www.instagram.com###cx-candybar-native
+
+bilibili.com###mirror-vdcon > div.left-container.scroll-sticky:first-child > a.ad-report.ad-floor-exp.left-banner:nth-child(7)
+xueqiu.com##.private__domain__association__ad
+www.bilibili.com##.inside-wrp > .left
+www.bilibili.com##.inside-wrp
+18comic.vip##.c835e-33_e_sticky2 > .c835e-33_e
