@@ -2,6 +2,8 @@ blog.axianyu.cn###myhkplayer
 blog.axianyu.cn##.playing, .myhkshow
 !哔哩哔哩首页开了插件之后上面的条条
 bilibili.com##div[class="adblock-tips"]
+!哔哩哔哩推广视频
+bilibili.com##div.feed-card:has(a[href*="cm.bilibili.com"])
 !哔哩哔哩首页直播间推荐
 bilibili.com##div[class="floor-single-card"]
 !知乎移动端严选推荐
