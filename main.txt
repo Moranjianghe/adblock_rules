@@ -32,7 +32,7 @@ www.wsj.com###cx-candybar-native
 
 www.instagram.com###cx-candybar-native
 
-bilibili.com###mirror-vdcon > div.left-container.scroll-sticky:first-child > a.ad-report.ad-floor-exp.left-banner:nth-child(7)
+!bilibili.com###mirror-vdcon > div.left-container.scroll-sticky:first-child > a.ad-report.ad-floor-exp.left-banner:nth-child(7)
 xueqiu.com##.private__domain__association__ad
 www.bilibili.com##.inside-wrp > .left
 www.bilibili.com##.inside-wrp
