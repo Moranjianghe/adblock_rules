@@ -34,6 +34,9 @@ www.instagram.com###cx-candybar-native
 
 !bilibili.com###mirror-vdcon > div.left-container.scroll-sticky:first-child > a.ad-report.ad-floor-exp.left-banner:nth-child(7)
 xueqiu.com##.private__domain__association__ad
-www.bilibili.com##.inside-wrp > .left
-www.bilibili.com##.inside-wrp
+!www.bilibili.com##.inside-wrp > .left
+!www.bilibili.com##.inside-wrp
 18comic.vip##.c835e-33_e_sticky2 > .c835e-33_e
+
+! 2025年1月9日 https://www.zhihu.com
+www.zhihu.com##.Pc-word
