@@ -42,3 +42,6 @@ xueqiu.com##.private__domain__association__ad
 
 ! 2025年1月9日 https://www.zhihu.com
 www.zhihu.com##.Pc-word
+
+! 2025年1月9日 https://mobile.pinduoduo.com
+mobile.pinduoduo.com##.pdd-go-to-app-pc
