@@ -14,6 +14,8 @@ www.bilibili.com##.video-card-ad-small
 www.bilibili.com##a.ad-report.ad-floor-exp[target="_blank"]
 !哔哩哔哩首页直播间推荐
 bilibili.com##div[class="floor-single-card"]
+! 游戏推广
+www.bilibili.com##.video-page-game-card-small
 !知乎移动端严选推荐
 zhihu.com##div[class="KfeCollection-VipRecommendCard"]
 
