@@ -3,8 +3,10 @@ blog.axianyu.cn##.playing, .myhkshow
 !哔哩哔哩首页开了插件之后上面的条条
 bilibili.com##div[class="adblock-tips"]
 !哔哩哔哩推广视频
-bilibili.com##div.feed-card:has(a[href*="cm.bilibili.com"])
-bilibili.com##div.bili-video-card:has(a[href*="cm.bilibili.com"])
+!bilibili.com##div.feed-card:has(a[href*="cm.bilibili.com"])
+!bilibili.com##div.bili-video-card:has(a[href*="cm.bilibili.com"])
+www.bilibili.com##div.feed-card:has(svg.vui_icon.bili-video-card__stats--icon)
+www.bilibili.com##.bili-video-card.is-rcmd:has(svg.vui_icon.bili-video-card__stats--icon)
 
 !首页左边的大方块
 www.bilibili.com##.grid-anchor.recommended-swipe
@@ -16,10 +18,20 @@ www.bilibili.com##a.ad-report.ad-floor-exp[target="_blank"]
 bilibili.com##div[class="floor-single-card"]
 ! 游戏推广
 www.bilibili.com##.video-page-game-card-small
+! 动态页广告
+t.bilibili.com##.bili-dyn-ads__item
+t.bilibili.com##.bili-dyn-ads
+! 不记得是什么了
+!www.bilibili.com##.inside-wrp > .left
+!www.bilibili.com##.inside-wrp
+!bilibili.com###mirror-vdcon > div.left-container.scroll-sticky:first-child > a.ad-report.ad-floor-exp.left-banner:nth-child(7)
+
 !知乎移动端严选推荐
 zhihu.com##div[class="KfeCollection-VipRecommendCard"]
+! 2025年1月9日 https://www.zhihu.com
+!www.zhihu.com##.Pc-word
 
-
+finance.caixin.com##.conlf > .adsame-banner-box
 
 gu.qq.com## #left_maxcard
 gu.qq.com## #right_maxcard
@@ -30,18 +42,22 @@ gu.qq.com###hqpanel > div.gb_title.title:first-child > div.gjzq-ad:nth-child(6)
 gu.qq.com##.ad-app
 gu.qq.com###content_wrap > div.right_side.lf:nth-child(2) > div.part_1.clear > div.content:last-child > div > div.gb_con:nth-child(5) > div.fr:nth-child(2)
 gu.qq.com##div:nth-child(15)
+
+18comic.vip##.c835e-33_e_sticky2 > .c835e-33_e
+
 www.wsj.com###cx-candybar-native
 
 www.instagram.com###cx-candybar-native
 
-!bilibili.com###mirror-vdcon > div.left-container.scroll-sticky:first-child > a.ad-report.ad-floor-exp.left-banner:nth-child(7)
-xueqiu.com##.private__domain__association__ad
-!www.bilibili.com##.inside-wrp > .left
-!www.bilibili.com##.inside-wrp
-18comic.vip##.c835e-33_e_sticky2 > .c835e-33_e
-
-! 2025年1月9日 https://www.zhihu.com
-www.zhihu.com##.Pc-word
-
-! 2025年1月9日 https://mobile.pinduoduo.com
+! 拼多多移动版跳转 app 按钮
 mobile.pinduoduo.com##.pdd-go-to-app-pc
+
+
+xueqiu.com##.private__domain__association__ad
+
+
+
+
+
+
+
