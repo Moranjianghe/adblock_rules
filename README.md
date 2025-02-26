@@ -8,7 +8,7 @@ This is a custom adblock rule set maintained by Moranjianghe, designed to provid
 - **哔哩哔哩 (Bilibili)**  
 - **知乎 (Zhihu)**  
 - **腾讯自选股**  
-- **禁漫天堂**  
+<!-- - **禁漫天堂**   -->
 
 这些网站的广告和推荐内容将会被屏蔽，提升浏览体验。  
 Ads and recommendation contents on these websites will be blocked to improve the browsing experience.
