@@ -29,9 +29,17 @@ t.bilibili.com##.bili-dyn-ads
 !知乎移动端严选推荐
 zhihu.com##div[class="KfeCollection-VipRecommendCard"]
 ! 2025年1月9日 https://www.zhihu.com
-!www.zhihu.com##.Pc-word
+www.zhihu.com##.Pc-word
+! 2025年3月17日 https://www.zhihu.com
+www.zhihu.com##.Banner-image.AdvertImg--isLoaded.AdvertImg
+
 
 finance.caixin.com##.conlf > .adsame-banner-box
+
+! 2025年3月11日 https://www.v2ex.com
+www.v2ex.com###Rightbar > div.box > .inner
+www.v2ex.com##.wwads-vertical.wwads-cn
+www.v2ex.com##.sidebar_compliance
 
 gu.qq.com## #left_maxcard
 gu.qq.com## #right_maxcard
