@@ -32,6 +32,7 @@ zhihu.com##div[class="KfeCollection-VipRecommendCard"]
 www.zhihu.com##.Pc-word
 ! 2025年3月17日 https://www.zhihu.com
 www.zhihu.com##.Banner-image.AdvertImg--isLoaded.AdvertImg
+www.zhihu.com##.TopstoryItem-isFollow.TopstoryItem--advertCard.TopstoryItem.Card
 
 
 finance.caixin.com##.conlf > .adsame-banner-box
