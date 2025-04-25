@@ -28,8 +28,11 @@ t.bilibili.com##.bili-dyn-ads
 
 !知乎移动端严选推荐
 zhihu.com##div[class="KfeCollection-VipRecommendCard"]
-! 2025年1月9日 https://www.zhihu.com
+
+!PC 廣告條
 www.zhihu.com##.Pc-word
+www.zhihu.com##div.Pc-word-new
+
 ! 2025年3月17日 https://www.zhihu.com
 www.zhihu.com##.Banner-image.AdvertImg--isLoaded.AdvertImg
 www.zhihu.com##.TopstoryItem-isFollow.TopstoryItem--advertCard.TopstoryItem.Card
