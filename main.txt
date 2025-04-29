@@ -33,6 +33,11 @@ zhihu.com##div[class="KfeCollection-VipRecommendCard"]
 www.zhihu.com##.Pc-word
 www.zhihu.com##div.Pc-word-new
 
+! 首頁淨化
+www.zhihu.com##.KfeCollection-CreateSaltCard
+www.zhihu.com##.css-173vipd
+www.zhihu.com##.css-9cqq7d
+
 ! 2025年3月17日 https://www.zhihu.com
 www.zhihu.com##.Banner-image.AdvertImg--isLoaded.AdvertImg
 www.zhihu.com##.TopstoryItem-isFollow.TopstoryItem--advertCard.TopstoryItem.Card
