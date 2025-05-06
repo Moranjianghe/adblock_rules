@@ -6,8 +6,8 @@ bilibili.com##div[class="adblock-tips"]
 !哔哩哔哩推广视频
 !bilibili.com##div.feed-card:has(a[href*="cm.bilibili.com"])
 !bilibili.com##div.bili-video-card:has(a[href*="cm.bilibili.com"])
-!bilibili.com##div.feed-card:has(svg.vui_icon.bili-video-card__stats--icon)
-!bilibili.com##.bili-video-card.is-rcmd:has(svg.vui_icon.bili-video-card__stats--icon)
+bilibili.com##div.feed-card:has(svg.vui_icon.bili-video-card__stats--icon)
+bilibili.com##.bili-video-card.is-rcmd:has(svg.vui_icon.bili-video-card__stats--icon)
 
 !首页广告
 bilibili.com##div.feed-card:has(span.bili-video-card__stats--text:has-text(广告))
