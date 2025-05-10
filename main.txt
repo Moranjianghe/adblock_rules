@@ -43,6 +43,11 @@ www.zhihu.com##.KfeCollection-CreateSaltCard
 www.zhihu.com##.css-173vipd
 www.zhihu.com##.css-9cqq7d
 
+!右侧的小广告
+www.zhihu.com##.Business-Card-PcRightBanner-link
+
+
+
 ! 2025年3月17日 https://www.zhihu.com
 www.zhihu.com##.Banner-image.AdvertImg--isLoaded.AdvertImg
 www.zhihu.com##.TopstoryItem-isFollow.TopstoryItem--advertCard.TopstoryItem.Card
