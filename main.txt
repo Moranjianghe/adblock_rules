@@ -22,6 +22,8 @@ www.bilibili.com##.video-card-ad-small
 www.bilibili.com##.ad-floor-exp
 www.bilibili.com##.inside-wrp
 
+!视频下方黄条
+www.bilibili.com##bili-comments-notice
 
 !哔哩哔哩首页直播间推荐
 bilibili.com##div[class="floor-single-card"]
