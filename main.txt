@@ -18,7 +18,11 @@ www.bilibili.com##.grid-anchor.recommended-swipe
 !视频右侧广告
 www.bilibili.com##.video-card-ad-small
 !视频下方广告
-www.bilibili.com##a.ad-report.ad-floor-exp[target="_blank"]
+!www.bilibili.com##a.ad-report.ad-floor-exp[target="_blank"]
+www.bilibili.com##.ad-floor-exp
+www.bilibili.com##.inside-wrp
+
+
 !哔哩哔哩首页直播间推荐
 bilibili.com##div[class="floor-single-card"]
 ! 游戏推广
