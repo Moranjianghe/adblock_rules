@@ -76,6 +76,14 @@ gu.qq.com##.ad-app
 gu.qq.com###content_wrap > div.right_side.lf:nth-child(2) > div.part_1.clear > div.content:last-child > div > div.gb_con:nth-child(5) > div.fr:nth-child(2)
 gu.qq.com##div:nth-child(15)
 
+! 2025年5月22日 https://tieba.baidu.com
+tieba.baidu.com###error_404_iframe
+tieba.baidu.com##.clearfix.top-sec
+tieba.baidu.com##.notice_item.item
+tieba.baidu.com##.right_wrap
+tieba.baidu.com##.r-left-sec
+tieba.baidu.com##.forum_rcmd
+
 18comic.vip##.c835e-33_e_sticky2 > .c835e-33_e
 
 www.wsj.com###cx-candybar-native
