@@ -32,6 +32,10 @@ www.bilibili.com##.video-page-game-card-small
 ! 动态页广告
 t.bilibili.com##.bili-dyn-ads__item
 t.bilibili.com##.bili-dyn-ads
+
+! 搜索页广告
+bilibili.com##.bili-video-card__info--ad:upward(.col_3.col_xs_1_5.col_md_2.col_xl_1_7.mb_x40)
+
 ! 不记得是什么了
 !www.bilibili.com##.inside-wrp > .left
 !www.bilibili.com##.inside-wrp
