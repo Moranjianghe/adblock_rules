@@ -1,21 +1,32 @@
 blog.axianyu.cn###myhkplayer
 blog.axianyu.cn##.playing, .myhkshow
+
 !哔哩哔哩首页开了插件之后上面的条条
 bilibili.com##div[class="adblock-tips"]
 !哔哩哔哩推广视频
 !bilibili.com##div.feed-card:has(a[href*="cm.bilibili.com"])
 !bilibili.com##div.bili-video-card:has(a[href*="cm.bilibili.com"])
-#www.bilibili.com##div.feed-card:has(svg.vui_icon.bili-video-card__stats--icon)
-#www.bilibili.com##.bili-video-card.is-rcmd:has(svg.vui_icon.bili-video-card__stats--icon)
+#bilibili.com##div.feed-card:has(svg.vui_icon.bili-video-card__stats--icon)
+#bilibili.com##.bili-video-card.is-rcmd:has(svg.vui_icon.bili-video-card__stats--icon)
 www.bilibili.com##div.feed-card:has(svg.bili-video-card__info--ad-creative)
 www.bilibili.com##.bili-video-card.is-rcmd:has(svg.bili-video-card__info--ad-creative)
+
+!首页广告
+bilibili.com##div.feed-card:has(span.bili-video-card__stats--text:has-text(广告))
+bilibili.com##div.bili-video-card:has(span.bili-video-card__stats--text:has-text(广告))
 
 !首页左边的大方块
 www.bilibili.com##.grid-anchor.recommended-swipe
 !视频右侧广告
 www.bilibili.com##.video-card-ad-small
 !视频下方广告
-www.bilibili.com##a.ad-report.ad-floor-exp[target="_blank"]
+!www.bilibili.com##a.ad-report.ad-floor-exp[target="_blank"]
+www.bilibili.com##.ad-floor-exp
+www.bilibili.com##.inside-wrp
+
+!视频下方黄条
+www.bilibili.com##bili-comments-notice
+
 !哔哩哔哩首页直播间推荐
 bilibili.com##div[class="floor-single-card"]
 ! 游戏推广
@@ -23,6 +34,10 @@ www.bilibili.com##.video-page-game-card-small
 ! 动态页广告
 t.bilibili.com##.bili-dyn-ads__item
 t.bilibili.com##.bili-dyn-ads
+
+! 搜索页广告
+bilibili.com##.bili-video-card__info--ad:upward(.col_3.col_xs_1_5.col_md_2.col_xl_1_7.mb_x40)
+
 ! 不记得是什么了
 !www.bilibili.com##.inside-wrp > .left
 !www.bilibili.com##.inside-wrp
@@ -39,6 +54,11 @@ www.zhihu.com##div.Pc-word-new
 www.zhihu.com##.KfeCollection-CreateSaltCard
 www.zhihu.com##.css-173vipd
 www.zhihu.com##.css-9cqq7d
+
+!右侧的小广告
+www.zhihu.com##.Business-Card-PcRightBanner-link
+
+
 
 ! 2025年3月17日 https://www.zhihu.com
 www.zhihu.com##.Banner-image.AdvertImg--isLoaded.AdvertImg
@@ -62,6 +82,14 @@ gu.qq.com##.ad-app
 gu.qq.com###content_wrap > div.right_side.lf:nth-child(2) > div.part_1.clear > div.content:last-child > div > div.gb_con:nth-child(5) > div.fr:nth-child(2)
 gu.qq.com##div:nth-child(15)
 
+! 2025年5月22日 https://tieba.baidu.com
+tieba.baidu.com###error_404_iframe
+tieba.baidu.com##.clearfix.top-sec
+tieba.baidu.com##.notice_item.item
+tieba.baidu.com##.right_wrap
+tieba.baidu.com##.r-left-sec
+tieba.baidu.com##.forum_rcmd
+
 18comic.vip##.c835e-33_e_sticky2 > .c835e-33_e
 
 www.wsj.com###cx-candybar-native
@@ -77,8 +105,4 @@ xueqiu.com##.private__domain__association__ad
 #QQ 空间好友动态之间的广告条
 user.qzone.qq.com##.f-single-top
 user.qzone.qq.com##.f-vqz-ad
-
-
-
-
 
