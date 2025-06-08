@@ -5,8 +5,10 @@ bilibili.com##div[class="adblock-tips"]
 !哔哩哔哩推广视频
 !bilibili.com##div.feed-card:has(a[href*="cm.bilibili.com"])
 !bilibili.com##div.bili-video-card:has(a[href*="cm.bilibili.com"])
-www.bilibili.com##div.feed-card:has(svg.vui_icon.bili-video-card__stats--icon)
-www.bilibili.com##.bili-video-card.is-rcmd:has(svg.vui_icon.bili-video-card__stats--icon)
+#www.bilibili.com##div.feed-card:has(svg.vui_icon.bili-video-card__stats--icon)
+#www.bilibili.com##.bili-video-card.is-rcmd:has(svg.vui_icon.bili-video-card__stats--icon)
+www.bilibili.com##div.feed-card:has(svg.bili-video-card__info--ad-creative)
+www.bilibili.com##.bili-video-card.is-rcmd:has(svg.bili-video-card__info--ad-creative)
 
 !首页左边的大方块
 www.bilibili.com##.grid-anchor.recommended-swipe
