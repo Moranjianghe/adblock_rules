@@ -16,7 +16,9 @@ bilibili.com##div.feed-card:has(span.bili-video-card__stats--text:has-text(广�
 bilibili.com##div.bili-video-card:has(span.bili-video-card__stats--text:has-text(广告))
 
 !首页左边的大方块
-www.bilibili.com##.grid-anchor.recommended-swipe
+#www.bilibili.com##.grid-anchor.recommended-swipe
+www.bilibili.com##.recommended-swipe
+
 !视频右侧广告
 www.bilibili.com##.video-card-ad-small
 !视频下方广告
