@@ -107,4 +107,4 @@ xueqiu.com##.private__domain__association__ad
 #QQ 空间好友动态之间的广告条
 user.qzone.qq.com##.f-single-top
 user.qzone.qq.com##.f-vqz-ad
-
+user.qzone.qq.com##.f-single-biz
