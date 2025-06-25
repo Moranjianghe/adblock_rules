@@ -108,3 +108,6 @@ xueqiu.com##.private__domain__association__ad
 user.qzone.qq.com##.f-single-top
 user.qzone.qq.com##.f-vqz-ad
 user.qzone.qq.com##.f-single-biz
+
+#游戏列表
+user.qzone.qq.com##.mod-side-nav-recently-used.mod-side-nav > .inner
