@@ -107,6 +107,10 @@ xueqiu.com##.private__domain__association__ad
 #QQ 空间好友动态之间的广告条
 user.qzone.qq.com##.f-single-top
 user.qzone.qq.com##.f-vqz-ad
+user.qzone.qq.com##.f-single-biz
+
+#游戏列表
+user.qzone.qq.com##.mod-side-nav-recently-used.mod-side-nav > .inner
 
 #高德底部难看的条条
 www.amap.com##.amap-copyright
