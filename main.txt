@@ -108,3 +108,5 @@ xueqiu.com##.private__domain__association__ad
 user.qzone.qq.com##.f-single-top
 user.qzone.qq.com##.f-vqz-ad
 
+#高德底部难看的条条
+www.amap.com##.amap-copyright
