@@ -13,6 +13,7 @@ bilibili.com##.bili-video-card.is-rcmd:has(svg.bili-video-card__info--ad-creativ
 
 !首页广告
 bilibili.com##div.feed-card:has(span.bili-video-card__stats--text:has-text(广告))
+bilibili.com##div.bili-feed-card:has(span.bili-video-card__stats--text:has-text(广告))
 bilibili.com##div.bili-video-card:has(span.bili-video-card__stats--text:has-text(广告))
 
 !首页左边的大方块
