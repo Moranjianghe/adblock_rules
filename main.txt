@@ -1,6 +1,9 @@
 blog.axianyu.cn###myhkplayer
 blog.axianyu.cn##.playing, .myhkshow
 
+!幹掉整個 bilibili 首頁
+www.bilibili.com##.bili-feed4-layout
+
 !哔哩哔哩首页开了插件之后上面的条条
 bilibili.com##div[class="adblock-tips"]
 !哔哩哔哩推广视频
@@ -115,3 +118,11 @@ user.qzone.qq.com##.mod-side-nav-recently-used.mod-side-nav > .inner
 
 #高德底部难看的条条
 www.amap.com##.amap-copyright
+amap.com##.app-download-panel
+
+! 2025年9月17日 https://www.zhihu.com
+www.zhihu.com##.css-15hh8yc.Card
+
+! 2025年10月29日 https://www.eu4cn.com
+www.eu4cn.com###bluedeck_ding > div
+
