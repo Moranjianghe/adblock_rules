@@ -127,6 +127,6 @@ www.zhihu.com##.css-15hh8yc.Card
 ! 2025年10月29日 https://www.eu4cn.com
 www.eu4cn.com###bluedeck_ding > div
 
-air-quality.com##div.detail-side-ads-card.detail-block[style]
-air-quality.com##div.detail-side-app.detail-block
+air-quality.com##div.detail-side-ads-card
+air-quality.com##div.detail-side-app
 
